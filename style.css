@@ -1,0 +1,20 @@
+.main_div{
+background-color:palevioletred;
+padding-bottom: 15%;
+padding-top: 5%;
+
+}
+.header_div{
+    background-color: slategray;
+
+}
+.copy_right_footer{
+    position:fixed;
+    color:steelblue;
+    text-shadow:black 3px 3px 3px;
+    text-align: center;
+    font-size: 25px;
+    width:100%;
+    bottom:0px;
+    font-family:cursive;
+}
